@@ -1,0 +1,31 @@
+ body {
+    background-color: rgb(3, 126, 3);
+    font-size: 20px;
+    font-family:  inherit;
+    text-align: center;
+ }
+ h1 {
+    border: 1px solid black;
+    background-color: white; 
+ }
+
+ .wrapper-main {
+    width: 900px;  
+    margin: 20px;
+    margin-left: 100px; 
+ }
+
+ table {
+    width: 100%;
+ }
+
+ th {
+    font-weight: bold;
+    border: 1px solid black;
+     background-color: white;
+ }
+
+ td {
+    border: 1px solid black; 
+    background-color: white;
+ }
